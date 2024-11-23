@@ -10,20 +10,17 @@ Skills: Excel, SQL, Power BI, Python & Tableau
 
 - 🔭 I’m currently working on creating a website to showcase some Portofolio Projects
 - 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with landing my first Data job!
+- 🤔 I’m looking for help with landing an awesome Data Analyst job!
 - 📫 How to reach me: rizzonicole222@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I went to high school with Channing Tatum 😃
 
-Look, I even created my very own personalized octocat:
-
-GET /badge/:badgeContent
-
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&labelColor=%23A37D98%20&color=%23A37D98%20)
 
 
-https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&label=My First Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
+![NR_octocat_small](https://github.com/user-attachments/assets/37067a87-e95e-4bd3-b4de-7be1c87ec9a7)
+
+![Static Badge](https://img.shields.io/badge/visitor%20count%20-%20%23A37D98%20?style=for-the-badge&logo=github)
+
+![Static Badge](https://img.shields.io/badge/mySQL-white?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1)
 
 
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
