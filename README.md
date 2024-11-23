@@ -17,6 +17,13 @@ Skills: Excel, SQL, Power BI, Python & Tableau
 
 Look, I even created my very own personalized octocat:
 
-![nicole_rizzo_octocat](https://github.com/user-attachments/assets/97ccb705-d2a2-4ddb-9974-2ba06d8bd12c)
+GET /badge/:badgeContent
+
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&labelColor=%23A37D98%20&color=%23A37D98%20)
 
 
+https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&label=My First Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
+
+
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
