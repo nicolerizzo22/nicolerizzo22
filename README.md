@@ -6,9 +6,9 @@
 
 Currently I am on a data-driven journey to sharpen skills I've had for years plus add new capabilities to my arsenal. 
 
-I'm proud of where I've gotten and excited for what is still to come. 
+This developer world is very fun - and challenging, which I love.  
 
-Skills: Excel, SQL, Power BI, Python & Tableau...
+Skills: Excel, SQL, Power BI, Python & Tableau...more to come 
 
 - 🔭 I’m currently working on creating a website to showcase some Portofolio Projects
 - 🌱 I’m currently learning Python
