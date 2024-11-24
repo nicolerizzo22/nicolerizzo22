@@ -17,7 +17,6 @@ Skills: Excel, SQL, Power BI, Python & Tableau...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I went to high school with Channing Tatum 😃
 
-my octocat:  
 
 ![NR_octocat_small](https://github.com/user-attachments/assets/37067a87-e95e-4bd3-b4de-7be1c87ec9a7)
 
