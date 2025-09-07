@@ -8,11 +8,10 @@ Currently I am on a data-driven journey to sharpen skills I've had for years plu
 
 This developer world is very fun .... and challenging, which I love! 
 
-Skills: Excel, SQL, Power BI, Python & Tableau...more to come 
+Skills: Excel, SQL, DOMO, Python & Snowflake... 
 
 - 🔭 I’m currently working on creating a website to showcase some Portofolio Projects
 - 🌱 I’m currently studying for the PL-300 exam 
-- 🤔 I’m looking for help with landing an awesome Data Analyst job!
 - 📫 How to reach me: rizzonicole222@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I went to high school with Channing Tatum 😃
